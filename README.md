@@ -1,2 +1,2 @@
 # JavaPublicRepository
-java repository
+java public repository
